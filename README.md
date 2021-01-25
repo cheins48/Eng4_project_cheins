@@ -22,3 +22,7 @@ A system similar to what you see in a super market, a mydrolic system that will 
 
 
 this solution is pretty expensive (about 98 dollars), but wouldnt be nearly as challenging to implament as the pulley will.  
+
+### Hurdles
+
+Currently, through a small amount of research, I bleive the only way to connect to bluetooth using python is with PyBlues, which was made for python 3.0.  Which is pretty out of date.  not to mention I dont Currently know how to connect to the alexa from there.  funding is possibly another issue as I am a broke ass teenager, and bluetooth chips are pretty expensive, I plan on asking wether the sigma lab has any spares, but I doubt they do. 
