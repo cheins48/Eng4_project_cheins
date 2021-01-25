@@ -3,4 +3,8 @@
 
 #### Problem: my dog always opens my door when im sleeping.
 
-#### solution: get my alexa to do it!
+#### Solution: get my alexa to do it!
+
+### Method 1
+a small pulley system mounted to my door that will contract at my comand, shutting my door.
+
