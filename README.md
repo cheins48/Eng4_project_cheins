@@ -23,7 +23,7 @@ A system similar to what you see in a super market, a mydrolic system that will 
 
 this solution is pretty expensive (about 98 dollars), but wouldnt be nearly as challenging to implament as the pulley will. 
 
-(I doubt this will be the method I choose, but thought it was worthwhile to put down as it was an idea I had at least)
+######(I doubt this will be the method I choose, but thought it was worthwhile to put down as it was an idea I had at least)
 
 ### Hurdles
 
