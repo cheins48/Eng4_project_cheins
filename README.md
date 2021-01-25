@@ -18,9 +18,7 @@ this will be much more cost effective as opposed to the other methods.  however 
 ### Method 2
 #### Hydrolics
 A system similar to what you see in a super market, a mydrolic system that will automatically close the door by extending
-[<img src="/20210124_185844.jpg" width="550" height="550">]20210124_185844.jpg
-)
+[<img src="/20210124_185844.jpg" width="550" height="550">](20210124_185844.jpg)
 
 
-
-
+this solution is pretty expensive (about 98 dollars), but wouldnt be nearly as challenging to implament as the pulley will.  
