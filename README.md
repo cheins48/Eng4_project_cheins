@@ -7,4 +7,4 @@
 
 ### Method 1
 a small pulley system mounted to my door that will contract at my comand, shutting my door.
-[<img src="/20210124_185844.jpg" alt="20210124_185844.jpg" width="550" height="550">](nameofthefile)
+[<img src="/20210124_184741.jpg" alt="20210124_184741.jpg" width="550" height="550">](20210124_184741.jpg)
