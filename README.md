@@ -67,4 +67,4 @@ while True:
 
 ###### _4/26/21_
 
-first prototype of one way gear, still clipping in certain areas and modestly sized so that the printer will be able to accurratly make it.  stil have no way of mounting it to door, and there's no space for a spool of string.
+first prototype of one way gear, still clipping in certain areas and modestly sized so that the printer will be able to accurratly make it.  stil have no way of mounting it to door, and there's no space for a spool of string. and the teeth of the Gear may be a bit to aggressive, they could get coaght and possibly snap.
