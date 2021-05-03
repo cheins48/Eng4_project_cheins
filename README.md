@@ -63,6 +63,7 @@ while True:
    ```
 ## CAD
 <img src="/Capture%20(2).PNG" >
+<img src="/Capture.PNG" >
 
 ###### _4/26/21_
 
