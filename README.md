@@ -65,9 +65,12 @@ while True:
    
    this code literally only moves a servo when I press a button.  still have no idea how to make it bluetooth compatable, or how to then connect that bluetooth to Alexa.  but all in due time I guess.
 ## CAD
+
+ ###### _4/5/21_
+ 
 <img src="/Capture%20(2).PNG" >
 <img src="/Capture.PNG" >
 
 ###### _4/26/21_
 
-first prototype of one way gear, still clipping in certain areas and modestly sized so that the printer will be able to accurratly make it.  still have no way of mounting it to door, and there's no space for a spool of string. and the teeth of the Gear may be a bit to aggressive, they could get caught and possibly snap.
+Second prototype of one way gear, still clipping in certain areas and modestly sized so that the printer will be able to accurratly make it.  still have no way of mounting it to door, and there's no space for a spool of string. and the teeth of the Gear may be a bit to aggressive, they could get caught and possibly snap.
