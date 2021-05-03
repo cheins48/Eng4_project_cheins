@@ -31,7 +31,7 @@ this solution is pretty expensive (about 98 dollars), but wouldnt be nearly as c
 Currently, through a small amount of research, I bleive the only way to connect to bluetooth using python is with PyBlues, which was made for python 3.0.  Which is pretty out of date.  not to mention I dont Currently know how to connect to the alexa from there.  funding is possibly another issue as I am a broke ass teenager, and bluetooth chips are pretty expensive, I plan on asking wether the sigma lab has any spares, but I doubt they do. 
 
 ## Code:
-#### Prototype
+#### Prototype:
 ```python
 import board
 #import time
@@ -61,6 +61,7 @@ while True:
         my_servo.angle = 90
     sleep(0.05)
    ```
+   this code literally only moves a servo when I press a button.  still have no idea how to cmake it bluetooth compatable, or how to then connect that bluetooth to Alexa.  but all in due tome I guess.
 ## CAD
 <img src="/Capture%20(2).PNG" >
 <img src="/Capture.PNG" >
