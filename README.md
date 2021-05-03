@@ -12,8 +12,7 @@
 a small pulley system mounted to my door, powered by bluetooth, that will contract at my comand, shutting my door.
 [<img src="/20210124_184741.jpg" alt="20210124_184741.jpg" width="550" height="550">](20210124_184741.jpg)
 
-[<img src="220px-Roue_libre_cliquet.svg.png" width="550" height="550">](220px-Roue_libre_cliquet.svg.png)
-
+<img src="220px-Roue_libre_cliquet.svg.png">
 this will be much more cost effective as opposed to the other methods.  however there is much more room for error, and I predict that it will be prone to breaking.
 
 ### Method 2
