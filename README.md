@@ -69,8 +69,7 @@ while True:
  
  ###### _4/12/21_
  First prototype of one way gear, made it way to smayy (abt 5mm wide in diameter), never got arounf to making the stopper, and the pin is super fragile.  its self contained and compact, but I doubt im gonna be using this design moving forward, next week I'll start work on a more expanded design with a larger stopper.
- 
-<img src="/Capture%20(2).PNG" >
+
 <img src="/Capture.PNG" >
 
 ###### _4/26/21_
