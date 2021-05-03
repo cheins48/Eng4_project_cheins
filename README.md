@@ -66,7 +66,9 @@ while True:
    this code literally only moves a servo when I press a button.  still have no idea how to make it bluetooth compatable, or how to then connect that bluetooth to Alexa.  but all in due time I guess.
 ## CAD
 <img src="/stoopidgear.PNG" >
- ###### _4/5/21_
+ 
+ ###### _4/12/21_
+ First prototype of one way gear, made it way to smayy (abt 5mm wide in diameter), never got arounf to making the stopper, and the pin is super fragile.  its self contained and compact, but I doubt im gonna be using this design moving forward, next week I'll start work on a more expanded desigh with a larger stopper.
  
 <img src="/Capture%20(2).PNG" >
 <img src="/Capture.PNG" >
