@@ -65,7 +65,7 @@ while True:
    
    this code literally only moves a servo when I press a button.  still have no idea how to make it bluetooth compatable, or how to then connect that bluetooth to Alexa.  but all in due time I guess.
 ## CAD
-
+<img src="/stoopidgear.PNG" >
  ###### _4/5/21_
  
 <img src="/Capture%20(2).PNG" >
