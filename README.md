@@ -63,7 +63,7 @@ while True:
    ```
 ## CAD
 <img src="/Capture%20(2).PNG" >
-#####_April 26, 2021
+######_April 26, 2021
 _
 
 first prototype of one way gear, still clipping in certain areas and modestly sized so that the printer will be able to accurratly make it.  stil have no way of mounting it to door, and there's no space for a spool of string.
