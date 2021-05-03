@@ -62,4 +62,4 @@ while True:
     sleep(0.05)
    ```
 ## CAD
-[<img src="/Capture.png" width="550" height="550">](20210124_184741.jpg)
+[<img src="/Capture.png" width="550" height="550">](Capture.png)
