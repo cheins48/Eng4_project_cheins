@@ -61,3 +61,5 @@ while True:
         my_servo.angle = 90
     sleep(0.05)
    ```
+## CAD
+[<img src="/capture.png" width="550" height="550">](20210124_184741.jpg)
