@@ -62,4 +62,4 @@ while True:
     sleep(0.05)
    ```
 ## CAD
-<img src="/Capture%20(2).PNG" height="1080">Capture (2).PNG
+<img src="/Capture%20(2).PNG" >Capture (2).PNG
