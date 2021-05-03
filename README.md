@@ -61,7 +61,7 @@ while True:
         my_servo.angle = 90
     sleep(0.05)
    ```
-   this code literally only moves a servo when I press a button.  still have no idea how to cmake it bluetooth compatable, or how to then connect that bluetooth to Alexa.  but all in due tome I guess.
+   this code literally only moves a servo when I press a button.  still have no idea how to make it bluetooth compatable, or how to then connect that bluetooth to Alexa.  but all in due time I guess.
 ## CAD
 <img src="/Capture%20(2).PNG" >
 <img src="/Capture.PNG" >
